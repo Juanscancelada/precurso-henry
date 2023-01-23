@@ -1,2 +1,1 @@
-# precurso-henry
-Este es un prepositorio de ejemplo henry
+Este proyecto es una prueba de prepositorio para clonarlo en el escritorio
